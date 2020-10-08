@@ -1,6 +1,6 @@
 # dsti-2020-fall-1-ml-pipeline
 
-Basic folder structure example:
+Target folder structure example:
 
 ```
 .
